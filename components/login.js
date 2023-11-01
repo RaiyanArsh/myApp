@@ -14,7 +14,7 @@ export default function Login({ onLogin }) {
 
   return (
     <View style={styles.container}>
-      <Image style={styles.img} source={require('./../assets/doctor.jpg')} />
+      <Image style={styles.img} source={require('./../assets/logo.png')} />
       <Text style={styles.title}>Schedula Pati</Text>
       <TextInput
         style={styles.input}
